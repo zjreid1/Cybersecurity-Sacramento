@@ -18,11 +18,10 @@ United States
 # [Meeting Minutes in Discord](https://discord.gg/BKJPgvz5kE)
 
 # Meeting Schedule
-Second Wednesday of the month at 7pm, with virtual meetings during August (hacker summer camp) and during November/December for the holidays.
+Currently under review/vote by group. Virtual meetings during August (hacker summer camp) and during November/December for the holidays.
 
-# Current Meeting (June 2024)
-
-- Meeting date / location: Tuesday, June 11, 2024 / 2104 Sutterville Rd, Sacramento, CA 95822
+# Current Meeting Time & Place:
+Under review/vote by group.
 
 ---
 
