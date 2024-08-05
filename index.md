@@ -18,10 +18,10 @@ United States
 # [Meeting Minutes in Discord](https://discord.gg/BKJPgvz5kE)
 
 # Meeting Schedule
-Currently under review/vote by group. Virtual meetings during August (hacker summer camp) and during November/December for the holidays.
+Second Wednesday of the month from 7PM - 8:30PM. Virtual meetings during August (hacker summer camp) and during November/December for the holidays.
 
 # Current Meeting Time & Place:
-Under review/vote by group.
+Virtually on Discord, August 14th from 7PM - 8:30PM.
 
 ---
 
