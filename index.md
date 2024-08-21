@@ -21,7 +21,8 @@ United States
 Second Wednesday of the month from 7PM - 8:30PM. Virtual meetings during August (hacker summer camp) and during November/December for the holidays.
 
 # Current Meeting Time & Place:
-Virtually on Discord, August 14th from 7PM - 8:30PM.
+Virtually on Discord, September 11th from 7PM - 8:30PM.
+Physcial Location TBD. Please reach out to [RadicalKjax](https://twitter.com/radicalkjax) or any one of the CyberSecSac social links if you know of any availiable space.
 
 ---
 
