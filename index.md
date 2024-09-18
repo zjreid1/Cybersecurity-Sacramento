@@ -10,7 +10,7 @@
 A group in the greater Sacramento County area for hackers, makers, tinkerers and security enthusiasts/professionals to meet and share projects/ideas. Current leader is [RadicalKjax](https://twitter.com/radicalkjax).
 
 # Location
-Sacramento, California
+Sacramento, California\
 United States
 
 ---
@@ -20,8 +20,8 @@ Second Wednesday of the month from 7PM - 8:30PM.
 
 # Current Meeting Time & Place:
 Hybrid:
-Physcially at The Sacramento Hacker Lab/Maker Space - 3519 BROADWAY SACRAMENTO CA
-Virtually on Discord
+Physcially at The Sacramento Hacker Lab/Maker Space - 3519 BROADWAY SACRAMENTO CA\
+Virtually on Discord\
 Next meeting date/time: October 9th from 7PM - 8:30PM.
 
 ---
