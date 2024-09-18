@@ -15,8 +15,6 @@ United States
 
 ---
 
-# [Meeting Minutes in Discord]
-
 # Meeting Schedule
 Second Wednesday of the month from 7PM - 8:30PM.
 
