@@ -2,7 +2,7 @@
 
 ---
 
-# [Join Our Discord](https://discord.gg/9YeYME9tWa)
+# [Join Our Discord](https://discord.gg/ztkMwynGPM)
 
 ---
 
@@ -15,14 +15,16 @@ United States
 
 ---
 
-# [Meeting Minutes in Discord](https://discord.gg/BKJPgvz5kE)
+# [Meeting Minutes in Discord]
 
 # Meeting Schedule
-Second Wednesday of the month from 7PM - 8:30PM. Virtual meetings during August (hacker summer camp) and during November/December for the holidays.
+Second Wednesday of the month from 7PM - 8:30PM.
 
 # Current Meeting Time & Place:
-Virtually on Discord, September 11th from 7PM - 8:30PM.
-Physcial Location TBD. Please reach out to [RadicalKjax](https://twitter.com/radicalkjax) or any one of the CyberSecSac social links if you know of any availiable space.
+Hybrid:
+Physcially at The Sacramento Hacker Lab/Maker Space - 3519 BROADWAY SACRAMENTO CA
+Virtually on Discord
+Next meeting date/time: October 9th from 7PM - 8:30PM.
 
 ---
 
