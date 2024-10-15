@@ -19,9 +19,11 @@ United States
 Second Wednesday of the month from 7PM - 8:30PM.
 
 # Current Meeting Time & Place:
-Hybrid:
+Hybrid:\
 Physcially at The Sacramento Hacker Lab/Maker Space - 3519 BROADWAY SACRAMENTO CA\
+or\
 Virtually on Discord\
+\
 Next meeting date/time: November 13th from 7PM - 8:30PM.
 
 ---
