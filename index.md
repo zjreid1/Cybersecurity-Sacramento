@@ -2,7 +2,7 @@
 
 ---
 
-# [Join Our Discord](https://discord.gg/ztkMwynGPM)
+# [Join Our Discord](https://discord.gg/bcXW6vETwH)
 
 ---
 
@@ -22,7 +22,7 @@ Second Wednesday of the month from 7PM - 8:30PM.
 Hybrid:
 Physcially at The Sacramento Hacker Lab/Maker Space - 3519 BROADWAY SACRAMENTO CA\
 Virtually on Discord\
-Next meeting date/time: October 9th from 7PM - 8:30PM.
+Next meeting date/time: November 13th from 7PM - 8:30PM.
 
 ---
 
