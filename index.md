@@ -1,4 +1,4 @@
-![ Logo ](./assets/images/HACKTHEBEAM.png)
+![ Logo ](./assets/images/hackthebeamsmaller.jpeg)
 
 ---
 
