@@ -33,6 +33,7 @@ Next meeting date/time: November 13th from 7PM - 8:30PM.
 * [Instagram](https://instagram.com/cybersec916)
 * [Facebook](https://facebook.com/profile.php?id=61559952651821)
 * [Threads](https://www.threads.net/@cybersec916)
+* [Bluesky][https://bsky.app/profile/cybersec916.com]
 
 ---
 
@@ -46,7 +47,7 @@ Next meeting date/time: November 13th from 7PM - 8:30PM.
 # Current Projects
 * Badge and Hardware hacking
 * CTFs
-* Reverse Engineering
+* Reverse Engineering - API's, Apps, Malware and more!
 
 ---
 
