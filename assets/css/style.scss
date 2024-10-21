@@ -4,14 +4,17 @@
 @import "{{ site.theme }}";
 @import 'jekyll-theme-hacker';
 
+/* Body color is Powershell Navy Blue */
 body {
   background: #012456;
 }
 
+/* Header color is Sac King's Purple */
 header {
   background: #5B2B82;
 }
 
+/* change h2 color to conifer per the theme's style guide. h2 = Hack the beam!*/
 header h2 {
   color: #b5e853;
 }
