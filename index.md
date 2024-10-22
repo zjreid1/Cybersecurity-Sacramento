@@ -48,6 +48,7 @@ Next meeting date/time: November 13th from 7PM - 8:30PM.
 * Badge and Hardware hacking
 * CTFs
 * Reverse Engineering - API's, Apps, Malware and more!
+* [Resources](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/tree/021b9f5e26aab8741f1e6a6c2e0967a7738b0255/resources)
 
 ---
 
