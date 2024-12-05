@@ -31,7 +31,7 @@ Next meeting date/time: December 11th from 7PM - 8:30PM.
 # Socials:
 * [Twitter](https://twitter.com/CyberSec916)
 * [Instagram](https://instagram.com/cybersec916)
-* [Facebook](https://facebook.com/profile.php?id=61559952651821)
+* [Facebook](https://www.facebook.com/profile.php?id=61562053185228)
 * [Threads](https://www.threads.net/@cybersec916)
 * [Bluesky](https://bsky.app/profile/cybersec916.com)
 
