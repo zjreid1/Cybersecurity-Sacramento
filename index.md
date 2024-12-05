@@ -7,7 +7,7 @@
 ---
 
 # About
-A group in the greater Sacramento County area for hackers, makers, tinkerers and security enthusiasts/professionals to meet and share projects/ideas. Current leader is [RadicalKjax](https://twitter.com/radicalkjax).
+A group in the greater Sacramento County area for hackers, makers, tinkerers and security enthusiasts/professionals to meet and share projects/ideas. Current leader is [RadicalKjax](https://bsky.app/profile/radicalkjax.com).
 
 # Location
 Sacramento, California\
@@ -49,6 +49,10 @@ Next meeting date/time: December 11th from 7PM - 8:30PM.
 * CTFs
 * Reverse Engineering - API's, Apps, Malware and more!
 * [Resources](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/tree/021b9f5e26aab8741f1e6a6c2e0967a7738b0255/resources)
+
+---
+
+# [Please consider donating to Made Studio for generously hosting us.](https://sacmade.com/support/)
 
 ---
 
