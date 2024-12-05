@@ -6,21 +6,21 @@
 
 ---
 
-# About
+# About:
 A group in the greater Sacramento County area for hackers, makers, tinkerers and security enthusiasts/professionals to meet and share projects/ideas. Current leader is [RadicalKjax](https://bsky.app/profile/radicalkjax.com).
 
-# Location
+# Location:
 Sacramento, California\
 United States
 
 ---
 
-# Meeting Schedule
+# Meeting Schedule:
 Second Wednesday of the month from 7PM - 8:30PM.
 
 # Current Meeting Time & Place:
 Hybrid:\
-Physcially at The Sacramento Hacker Lab/Maker Space - 3519 BROADWAY SACRAMENTO CA\
+Physcially at The Sacramento Hacker Lab/Made Studio - 3519 BROADWAY SACRAMENTO CA\
 or\
 Virtually on Discord\
 \
@@ -28,7 +28,7 @@ Next meeting date/time: December 11th from 7PM - 8:30PM.
 
 ---
 
-# Socials
+# Socials:
 * [Twitter](https://twitter.com/CyberSec916)
 * [Instagram](https://instagram.com/cybersec916)
 * [Facebook](https://facebook.com/profile.php?id=61559952651821)
@@ -37,14 +37,14 @@ Next meeting date/time: December 11th from 7PM - 8:30PM.
 
 ---
 
-# Areas of Interest
+# Areas of Interest:
 * Lock-picking
 * Red-teaming
 * ICS
 * AgHacking
 * Policy/Gov hacking
 
-# Current Projects
+# Current Projects:
 * Badge and Hardware hacking
 * CTFs
 * Reverse Engineering - API's, Apps, Malware and more!
