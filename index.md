@@ -7,7 +7,7 @@
 ---
 
 # About:
-A group in the greater Sacramento County area associated with DEF CON Groups for hackers, makers, tinkerers and security enthusiasts/professionals to meet and share projects/ideas. Current leader is [RadicalKjax](https://bsky.app/profile/radicalkjax.com), please reach out to her or any of the listed social media accounts below for any inquiries.
+A group in the greater Sacramento County area associated with [DEF CON](https://defcon.org) Groups for hackers, makers, tinkerers and security enthusiasts/professionals to meet and share projects/ideas. Current leader is [RadicalKjax](https://bsky.app/profile/radicalkjax.com), please reach out to her or any of the listed social media accounts below for any inquiries.
 
 # Location:
 Sacramento, California\
@@ -34,6 +34,7 @@ Next meeting date/time: Janurary 8th from 7PM - 8:30PM.
 * [Facebook](https://www.facebook.com/profile.php?id=61562053185228)
 * [Threads](https://www.threads.net/@cybersec916)
 * [Bluesky](https://bsky.app/profile/cybersec916.com)
+* [DEF CON Groups Forums](https://forum.defcon.org/node/231442)
 
 ---
 
