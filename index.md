@@ -20,7 +20,7 @@ Second Wednesday of the month from 7PM - 8:30PM.
 
 # Current Meeting Time & Place:
 Hybrid:\
-Physcially at The Sacramento Hacker Lab/Made Studio - 3519 BROADWAY SACRAMENTO CA\
+Physically at The Sacramento Hacker Lab/Made Studio - 3519 BROADWAY SACRAMENTO CA\
 or\
 Virtually on Discord\
 \
