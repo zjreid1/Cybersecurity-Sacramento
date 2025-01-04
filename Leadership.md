@@ -1,3 +1,8 @@
+---
+title: Leader Info & Pathway
+layout: default
+filename: Leadership
+--- 
 # Current Leader
 Kali Jackson (radicalkjax)
 
