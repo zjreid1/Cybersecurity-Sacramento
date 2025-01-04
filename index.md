@@ -14,11 +14,14 @@ Sacramento, California\
 United States
 
 # Directory
-Be sure to visit the group [Directory](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/README.md) to view:
+<!-- Be sure to visit the group [Directory](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/README.md) to view:
 * [Cybersecurity Sacramento & DC916 Code of Conduct](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/CoC.md)
 * [Donation Info](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Donations.md)
 * [Giveaway Rules & Info](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Giveaways.md)
-* [Leadership Info & Pathway](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Leadership.md)
+* [Leadership Info & Pathway](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Leadership.md) -->
+{% for page in site.pages %}
+      <a href={{ page.filename }}>{{ page.title }}</a>
+    {% endfor %}
 
 ---
 
