@@ -1,8 +1,4 @@
----
-title: Cybersecurity Sacramento | DC916 Code of Conduct
-layout: template
-filename: CoC.md
----
+# Cybersecurity Sacramento | DC916 Code of Conduct
 
 # Introduction
 This is the Cybersecurity Sacramento | DC916 Code of Conduct. It's a mixture of Code of Conduct's I (Kali - radicalkjax) have read from various other groups (DEF CON and not) that I felt best adhered to Cybersecurity Sacramento | DC916. If you have any questions at all you can reach out directly to [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md) or submit them anonymously using the [provided form](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).

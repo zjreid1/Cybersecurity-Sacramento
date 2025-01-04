@@ -1,8 +1,3 @@
----
-title: Leadership Info
-layout: template
-filename: Leadership.md
----
 # Current Leader
 Kali Jackson (radicalkjax)
 

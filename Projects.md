@@ -1,8 +1,5 @@
----
-title: Cybersecurity Sacramento | DC916 Projects
-layout: template
-filename: Projects.md
----
+# Cybersecurity Sacramento | DC916 Projects
+
 # The Road to DEF CON 33
 Currently, Leadership is reaching out to PoC's to get insight on what it would take to have DC916 as a part of DEF CON Groups at DEF CON 33.
 

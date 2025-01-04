@@ -1,8 +1,5 @@
----
-title: Giveaway Rules
-layout: template
-filename: Giveaaways.md
----
+# Giveaway Info
+
 # Overall Giveaway Rules:
 A member may only win one item every other month to allow others a chance to win.
 
