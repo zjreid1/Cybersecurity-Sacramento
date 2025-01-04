@@ -45,4 +45,4 @@ Covered in “No illegal activity” the "teach me to hack" or "will you hack th
 # Closing
 This is intended to be a living document. As Cybersecurity Sacramento | DC916 grows new group structure will emerge and rules will need to be ammended. If you have any suggestions please reach out to [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md) or submit them with the aforementioned form [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 
-- Kali Jackson (radicalkjax)
+-- Kali Jackson (radicalkjax)
