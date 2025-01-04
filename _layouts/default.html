@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     {% for page in site.pages %}
-      <a href={{ page.filename }}>{{ page.title }}</a>
+      <a{{ page.filename }}>{{ page.title }}</a>
     {% endfor %}
 
 {% seo %}
