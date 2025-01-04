@@ -13,6 +13,13 @@ A group in the greater Sacramento County area associated with [DEF CON](https://
 Sacramento, California\
 United States
 
+# Directory
+Be sure to visit the group [Directory]() to view:
+* [Cybersecurity Sacramento | DC916 Code of Conduct](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/CoC.md)
+* [Donation Info](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Donations.md)
+* [Giveaway Rules & Info](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Giveaways.md)
+* [Leadership Info & Pathway](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Leadership.md)
+
 ---
 
 # Meeting Schedule:
@@ -46,6 +53,7 @@ Next meeting date/time: Janurary 8th from 7PM - 8:30PM.
 * Policy/Gov hacking
 
 # Current Projects:
+* [Checkout out our Projects page](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Projects.md)
 * Badge and Hardware hacking
 * CTFs
 * Reverse Engineering - API's, Apps, Malware and more!
