@@ -2,10 +2,10 @@
 ---
 
 # Overall Giveaway Rules:
-A member may only win one item every other month to allow others a chance to win.
+* A member may only win one item every other month to allow others a chance to win.
 
 # Virtual Item Giveaway Rules:
-Anyone may enter
+* Anyone may enter
 
 # Physical Item Giveaway Rules:
 * Physical items must be picked up at the physical meeting when the member's name is drawn or the meeting following after. Therefore, only members within the Sacramento area may enter for the Physical Item Giveaways. 
