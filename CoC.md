@@ -7,7 +7,7 @@ This is the Cybersecurity Sacramento & DC916 Code of Conduct. It's a mixture of 
 ---
 
 # <-- BEGIN CODE OF CONDUCT -->
-1) # Be respectful: 
+1) Be respectful: 
 
 Treat others how you’d like to be treated. Hate speech, bullying, sexism, discrimination or harassment of any kind will not be tolerated.
 
@@ -15,7 +15,9 @@ Treat others how you’d like to be treated. Hate speech, bullying, sexism, disc
 
 * If you need to report something to [Leadership](https://dc916.com/Leadership), please submit it [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 
-2) No illegal activity: Don’t discuss or promote any illegal activities or substances.
+2) No illegal activity: 
+
+Don’t discuss or promote any illegal activities or substances.
 
 * Do NOT violate any local, state, national, international law or regulation while attending group meetings, events or while acting on behalf of Cybersecurity Sacramento & DC916.
 * Do NOT request others in the group to violate the above.
@@ -25,24 +27,41 @@ If you don't know if something violates the above, then it's best you don't do i
 
 Remember, this is a semi-public group. Anyone, ANYONE, may be apart of it.
 
-4) There shall be no official ideology of Cybersecurity Sacramento & DC916. However, people espousing ideas or belonging to groups that deny social, economic and/or political agency to persons or groups based on their race, ethnicity, religion, national origin, gender identity/expression, disability status, sexual orientation, or perception thereof; therefor will not be allowed to attend or participate is Cybersecurity Sacramento & DC916 events and meet ups. Persons openly espousing ideas that remove others Freedoms shall not be welcome. This includes any groups that openly states in denying agency to said persons regardless of their actual capacity to do so.
+4) There shall be no official ideology of Cybersecurity Sacramento & DC916:
 
-5) No unauthorized sharing: Don’t share personal information or images of others without their consent.
+However, people espousing ideas or belonging to groups that deny social, economic and/or political agency to persons or groups based on their race, ethnicity, religion, national origin, gender identity/expression, disability status, sexual orientation, or perception thereof; therefor will not be allowed to attend or participate is Cybersecurity Sacramento & DC916 events and meet ups. Persons openly espousing ideas that remove others Freedoms shall not be welcome. This includes any groups that openly states in denying agency to said persons regardless of their actual capacity to do so.
 
-6) No trolling: Don’t intentionally provoke or harass other members.
+5) No unauthorized sharing: 
 
-7) Be Responsible for Your Actions: Take responsibility for your own actions and their consequences in the event of a report or witnessing of an event when a participant/attendee/Cybersecurity Sacramento & DC916 Member is being harassed.
+Don’t share personal information or images of others without their consent.
+
+6) No trolling: 
+
+Don’t intentionally provoke or harass other members.
+
+7) Be Responsible for Your Actions: 
+
+Take responsibility for your own actions and their consequences in the event of a report or witnessing of an event when a participant/attendee/Cybersecurity Sacramento & DC916 Member is being harassed.
 
 8) The ‘teach me to hack’ or ‘could you hack this for me’ questions:
+
 Covered in “No illegal activity” the "teach me to hack" or "will you hack this for me?" questions will NOT be tolerated.
 
-9) This is a place to learn and connect with community: If you have questions regarding security or a direct technical question we are here to help and discuss. If you are unsure if your question will violate the "teach me to hack" rule, reach out to [Leadership](https://dc916.com/Leadership). Sometimes a question just needs to be phrased appropriately. The previous rule is to make it clear we're not here to teach people how to break the law.
+9) This is a place to learn and connect with community: 
 
-10) No stealing: Do not steal others work. If someone posts/presents their efforts please respect it by giving credit where it's due. If you want to share a member's work outside the group be sure to have their consent.
+If you have questions regarding security or a direct technical question we are here to help and discuss. If you are unsure if your question will violate the "teach me to hack" rule, reach out to [Leadership](https://dc916.com/Leadership). Sometimes a question just needs to be phrased appropriately. The previous rule is to make it clear we're not here to teach people how to break the law.
 
-11) Work with Leadership: Building a great community requires cooperation, so please work with our [Leadership](https://dc916.com/Leadership)) to help make our group a friendly and welcoming place.
+10) No stealing: 
 
-12) Follow DEF CON’s Code of Conduct: For where these rules may fall short, please follow [DEF CON's official Code of Conduct](https://defcon.org/html/links/dc-code-of-conduct.html).
+Do not steal others work. If someone posts/presents their efforts please respect it by giving credit where it's due. If you want to share a member's work outside the group be sure to have their consent.
+
+11) Work with Leadership: 
+
+Building a great community requires cooperation, so please work with our [Leadership](https://dc916.com/Leadership)) to help make our group a friendly and welcoming place.
+
+12) Follow DEF CON’s Code of Conduct: 
+
+For where these rules may fall short, please follow [DEF CON's official Code of Conduct](https://defcon.org/html/links/dc-code-of-conduct.html).
 
 13) Hack the planet! 
 # <-- END CODE OF CONDUCT -->
