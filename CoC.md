@@ -2,7 +2,7 @@
 ---
 
 # Introduction
-This is the Cybersecurity Sacramento & DC916 Code of Conduct. It's a mixture of Code of Conduct's I (Kali - radicalkjax) have read from various other groups (DEF CON and not) that I felt best adhered to Cybersecurity Sacramento & DC916. If you have any questions at all you can reach out directly to [Leadership](https://dc916.com/Leadership)) or submit them anonymously using the [provided form](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
+This is the Cybersecurity Sacramento & DC916 Code of Conduct. It's a mixture of Code of Conduct's I (Kali - radicalkjax) have read from various other groups (DEF CON and not) that I felt best adhered to Cybersecurity Sacramento & DC916. If you have any questions at all you can reach out directly to [Leadership](https://dc916.com/Leadership) or submit them anonymously using the [provided form](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 
 ---
 
@@ -68,6 +68,6 @@ For where these rules may fall short, please follow [DEF CON's official Code of 
 # <-- END CODE OF CONDUCT -->
 ----
 # Closing
-This is intended to be a living document. As Cybersecurity Sacramento & DC916 grows new group structure will emerge and rules will need to be ammended. If you have any suggestions please reach out to [Leadership](https://dc916.com/Leadership)) or submit them with the aforementioned form [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
+This is intended to be a living document. As Cybersecurity Sacramento & DC916 grows new group structure will emerge and rules will need to be ammended. If you have any suggestions please reach out to [Leadership](https://dc916.com/Leadership) or submit them with the aforementioned form [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 
 -- Kali Jackson (radicalkjax)
