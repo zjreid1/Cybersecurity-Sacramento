@@ -2,18 +2,18 @@
 ---
 
 # Introduction
-This is the Cybersecurity Sacramento & DC916 Code of Conduct. It's a mixture of Code of Conduct's I (Kali - radicalkjax) have read from various other groups (DEF CON and not) that I felt best adhered to Cybersecurity Sacramento | DC916. If you have any questions at all you can reach out directly to [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md) or submit them anonymously using the [provided form](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
+This is the Cybersecurity Sacramento & DC916 Code of Conduct. It's a mixture of Code of Conduct's I (Kali - radicalkjax) have read from various other groups (DEF CON and not) that I felt best adhered to Cybersecurity Sacramento & DC916. If you have any questions at all you can reach out directly to [Leadership](https://dc916.com/Leadership)) or submit them anonymously using the [provided form](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 
 # <-- BEGIN CODE OF CONDUCT -->
 1) Be respectful: Treat others how you’d like to be treated. Hate speech, bullying, sexism, discrimination or harassment of any kind will not be tolerated.
 
 * Harassment includes — but is not limited to — unwelcome conduct or offensive verbal comments related to gender, gender identity, gender expression, sexual orientation, age, disability, physical appearance, body size, race, national origin, or religion; deliberate intimidation, stalking, following, unwelcome or unauthorized photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-* If you need to report something to [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md), please submit it [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
+* If you need to report something to [Leadership](https://dc916.com/Leadership), please submit it [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 
 2) No illegal activity: Don’t discuss or promote any illegal activities or substances.
 
-* Do NOT violate any local, state, national, international law or regulation while attending group meetings, events or while acting on behalf of Cybersecurity Sacramento | DC916.
+* Do NOT violate any local, state, national, international law or regulation while attending group meetings, events or while acting on behalf of Cybersecurity Sacramento & DC916.
 * Do NOT request others in the group to violate the above.
 * Do NOT ask someone to, "hack this for me," "teach me to hack," or for, "hacking software."\
 
@@ -42,7 +42,7 @@ Covered in “No illegal activity” the "teach me to hack" or "will you hack th
 
 13) Hack the planet! 
 # <-- END CODE OF CONDUCT -->
-
+----
 # Closing
 This is intended to be a living document. As Cybersecurity Sacramento & DC916 grows new group structure will emerge and rules will need to be ammended. If you have any suggestions please reach out to [Leadership](https://dc916.com/Leadership)) or submit them with the aforementioned form [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 

@@ -54,7 +54,7 @@ Next meeting date/time: Janurary 8th from 7PM - 8:30PM.
 * Policy/Gov hacking
 
 # Current Projects:
-* [Checkout out our Projects page](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Projects.md)
+* [Checkout out our Projects page](https://dc916.com/Projects)
 * Badge and Hardware hacking
 * CTFs
 * Reverse Engineering - API's, Apps, Malware and more!

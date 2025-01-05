@@ -1,4 +1,5 @@
-# Cybersecurity Sacramento | DC916 Directory
+# Cybersecurity Sacramento & DC916 Directory
+---
 
 1) [Web Page](https://dc916.com)
 2) [Code of Conduct](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/CoC.md)
