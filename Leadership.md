@@ -2,7 +2,7 @@
 ---
 
 # Current Leader
-Kali Jackson (radicalkjax)
+Kali Jackson ([radicalkjax](https://bsky.app/profile/radicalkjax.com))
 
 # Current Officer(s) (Mods)
 Anonymous - Ask Kali (radicalkjax) who this person is
