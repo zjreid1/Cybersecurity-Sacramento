@@ -14,11 +14,11 @@ Sacramento, California\
 United States
 
 # Directory
-[Directory](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/README.md) to view:
-* [Cybersecurity Sacramento & DC916 Code of Conduct](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/CoC.md)
-* [Donation Info](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Donations.md)
-* [Giveaway Rules & Info](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Giveaways.md)
-* [Leadership Info & Pathway](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/blob/main/Leadership.md)
+[Directory](https://dc916.com/README) to view:
+* [Cybersecurity Sacramento & DC916 Code of Conduct](https://dc916.com/CoC)
+* [Donation Info](https://dc916.com/Donations)
+* [Giveaway Rules & Info](https://dc916.com/Giveaways)
+* [Leadership Info & Pathway](https://dc916.com/Leadership)
 
 
 ---

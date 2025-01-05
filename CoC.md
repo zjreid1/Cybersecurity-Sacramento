@@ -1,7 +1,8 @@
-# Cybersecurity Sacramento | DC916 Code of Conduct
+# Cybersecurity Sacramento & DC916 Code of Conduct
+---
 
 # Introduction
-This is the Cybersecurity Sacramento | DC916 Code of Conduct. It's a mixture of Code of Conduct's I (Kali - radicalkjax) have read from various other groups (DEF CON and not) that I felt best adhered to Cybersecurity Sacramento | DC916. If you have any questions at all you can reach out directly to [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md) or submit them anonymously using the [provided form](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
+This is the Cybersecurity Sacramento & DC916 Code of Conduct. It's a mixture of Code of Conduct's I (Kali - radicalkjax) have read from various other groups (DEF CON and not) that I felt best adhered to Cybersecurity Sacramento | DC916. If you have any questions at all you can reach out directly to [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md) or submit them anonymously using the [provided form](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 
 # <-- BEGIN CODE OF CONDUCT -->
 1) Be respectful: Treat others how you’d like to be treated. Hate speech, bullying, sexism, discrimination or harassment of any kind will not be tolerated.
@@ -14,28 +15,28 @@ This is the Cybersecurity Sacramento | DC916 Code of Conduct. It's a mixture of 
 
 * Do NOT violate any local, state, national, international law or regulation while attending group meetings, events or while acting on behalf of Cybersecurity Sacramento | DC916.
 * Do NOT request others in the group to violate the above.
-* Do NOT ask someone to, "hack this for me," "teach me to hack," or for, "hacking software."
+* Do NOT ask someone to, "hack this for me," "teach me to hack," or for, "hacking software."\
 
-If you don't know if something violates the above, then it's best you don't do it.
+If you don't know if something violates the above, then it's best you don't do it.\
 
-Remember, this is a semi-public group. Anyone, ANYONE, may be apart of it.
+Remember, this is a semi-public group. Anyone, ANYONE, may be apart of it.\
 
-4) There shall be no official ideology of Cybersecurity Sacramento | DC916. However, people espousing ideas or belonging to groups that deny social, economic and/or political agency to persons or groups based on their race, ethnicity, religion, national origin, gender identity/expression, disability status, sexual orientation, or perception thereof; therefor will not be allowed to attend or participate is Cybersecurity Sacramento | DC916 events and meet ups. Persons openly espousing ideas that remove others Freedoms shall not be welcome. This includes any groups that openly states in denying agency to said persons regardless of their actual capacity to do so.
+4) There shall be no official ideology of Cybersecurity Sacramento & DC916. However, people espousing ideas or belonging to groups that deny social, economic and/or political agency to persons or groups based on their race, ethnicity, religion, national origin, gender identity/expression, disability status, sexual orientation, or perception thereof; therefor will not be allowed to attend or participate is Cybersecurity Sacramento & DC916 events and meet ups. Persons openly espousing ideas that remove others Freedoms shall not be welcome. This includes any groups that openly states in denying agency to said persons regardless of their actual capacity to do so.
 
 5) No unauthorized sharing: Don’t share personal information or images of others without their consent.
 
-6) No trolling: Don’t intentionally provoke or harass other members.
+6) No trolling: Don’t intentionally provoke or harass other members.\
 
-7) Be Responsible for Your Actions: Take responsibility for your own actions and their consequences in the event of a report or witnessing of an event when a participant/attendee/Cybersecurity Sacramento | DC916 Member is being harassed.
+7) Be Responsible for Your Actions: Take responsibility for your own actions and their consequences in the event of a report or witnessing of an event when a participant/attendee/Cybersecurity Sacramento & DC916 Member is being harassed.
 
 8) The ‘teach me to hack’ or ‘could you hack this for me’ questions:
 Covered in “No illegal activity” the "teach me to hack" or "will you hack this for me?" questions will NOT be tolerated.
 
-9) This is a place to learn and connect with community: If you have questions regarding security or a direct technical question we are here to help and discuss. If you are unsure if your question will violate the "teach me to hack" rule, reach out to [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md). Sometimes a question just needs to be phrased appropriately. The previous rule is to make it clear we're not here to teach people how to break the law.
+9) This is a place to learn and connect with community: If you have questions regarding security or a direct technical question we are here to help and discuss. If you are unsure if your question will violate the "teach me to hack" rule, reach out to [Leadership](https://dc916.com/Leadership). Sometimes a question just needs to be phrased appropriately. The previous rule is to make it clear we're not here to teach people how to break the law.
 
 10) No stealing: Do not steal others work. If someone posts/presents their efforts please respect it by giving credit where it's due. If you want to share a member's work outside the group be sure to have their consent.
 
-11) Work with Leadership: Building a great community requires cooperation, so please work with our [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md) to help make our group a friendly and welcoming place.
+11) Work with Leadership: Building a great community requires cooperation, so please work with our [Leadership](https://dc916.com/Leadership)) to help make our group a friendly and welcoming place.
 
 12) Follow DEF CON’s Code of Conduct: For where these rules may fall short, please follow [DEF CON's official Code of Conduct](https://defcon.org/html/links/dc-code-of-conduct.html).
 
@@ -43,6 +44,6 @@ Covered in “No illegal activity” the "teach me to hack" or "will you hack th
 # <-- END CODE OF CONDUCT -->
 
 # Closing
-This is intended to be a living document. As Cybersecurity Sacramento | DC916 grows new group structure will emerge and rules will need to be ammended. If you have any suggestions please reach out to [Leadership](https://github.com/CyberSecSacramento/Cybersecurity-Sacramento/Leadership.md) or submit them with the aforementioned form [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
+This is intended to be a living document. As Cybersecurity Sacramento & DC916 grows new group structure will emerge and rules will need to be ammended. If you have any suggestions please reach out to [Leadership](https://dc916.com/Leadership)) or submit them with the aforementioned form [here](https://docs.google.com/forms/d/e/1FAIpQLSfAvA1sVB5_xy5_RFFwnP3ZBAAoc98rgiKZLcIY23bnHmV8qQ/viewform?usp=sf_link).
 
 -- Kali Jackson (radicalkjax)

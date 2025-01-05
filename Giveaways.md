@@ -1,4 +1,5 @@
-# Giveaway Info
+# Cybersecurity Sacramento & DC916 Giveaway Info
+---
 
 # Overall Giveaway Rules:
 A member may only win one item every other month to allow others a chance to win.
