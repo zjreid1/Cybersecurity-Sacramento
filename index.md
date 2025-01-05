@@ -14,7 +14,7 @@ Sacramento, California\
 United States
 
 # Directory
-[Directory](https://dc916.com/README) to view:
+Here is our [Directory](https://dc916.com/README) to view:
 * [Cybersecurity Sacramento & DC916 Code of Conduct](https://dc916.com/CoC)
 * [Donation Info](https://dc916.com/Donations)
 * [Giveaway Rules & Info](https://dc916.com/Giveaways)
