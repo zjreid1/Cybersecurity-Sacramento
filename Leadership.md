@@ -35,7 +35,7 @@ When Leadership roles open the group will be let known how/when to apply.
 * Echo419
 * Kali Jackson ([radicalkjax](https://bsky.app/profile/radicalkjax.com))
 
-# Founding members of DC916
+# Founding Members of DC916
 <-- RESEARCHING -->
 
 ---
