@@ -58,7 +58,7 @@ Do not steal others work. If someone posts/presents their efforts please respect
 
 # 10) Work with Leadership: 
 
-Building a great community requires cooperation, so please work with our [Leadership](https://dc916.com/Leadership)) to help make our group a friendly and welcoming place.
+Building a great community requires cooperation, so please work with our [Leadership](https://dc916.com/Leadership) to help make our group a friendly and welcoming place.
 
 # 11) Follow DEF CON’s Code of Conduct: 
 
