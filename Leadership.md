@@ -28,3 +28,16 @@ Building a great community requires cooperation. So, working with Leadership Tea
 
 Currently, Leadership isn't looking to expand roles.
 When Leadership roles open the group will be let known how/when to apply.
+
+---
+
+# Founding Members of Cybersecurity Sacramento
+* Echo419
+* Kali Jackson ([radicalkjax](https://bsky.app/profile/radicalkjax.com))
+
+# Founding members of DC916
+<-- RESEARCHING -->
+
+---
+
+
