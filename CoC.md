@@ -7,7 +7,8 @@ This is the Cybersecurity Sacramento & DC916 Code of Conduct. It's a mixture of 
 ---
 
 # <-- BEGIN CODE OF CONDUCT -->
-1) Be respectful: 
+
+# 1) Be respectful: 
 
 Treat others how you’d like to be treated. Hate speech, bullying, sexism, discrimination or harassment of any kind will not be tolerated.
 
