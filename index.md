@@ -2,7 +2,7 @@
 
 ---
 
-# [Join Our Discord](https://discord.gg/PVmUsZpkg2)
+# [Join Our Discord](https://discord.gg/Dkn5DZTaGh)
 
 ---
 
@@ -32,7 +32,7 @@ Physically at The Sacramento Hacker Lab/Made Studio - 3519 BROADWAY SACRAMENTO C
 or\
 Virtually on Discord\
 \
-Next meeting date/time: Janurary 8th from 7PM - 8:30PM.
+Next meeting date/time: February 12th from 7PM - 8:30PM.
 
 ---
 
