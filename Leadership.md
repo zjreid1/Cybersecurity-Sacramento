@@ -5,7 +5,7 @@
 Kali Jackson ([radicalkjax](https://bsky.app/profile/radicalkjax.com))
 
 # Current Officer(s) (Mods)
-Anonymous - Ask Kali (radicalkjax) who this person is
+Charles Blas
 
 # Leadership Notes
 Currently there is only the Leader and Officer (Mod) of Cybersecurity Sacramento & DC916. As the group grows the structure of its governance will change to accomidate its needs.
