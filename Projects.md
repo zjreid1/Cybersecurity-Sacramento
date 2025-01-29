@@ -2,9 +2,7 @@
 ---
 
 # The Road to DEF CON 33
-Currently, [Leadership](https://dc916.com/Leadership) is reaching out to PoC's to get insight on what it would take to have DC916 as a part of DEF CON Groups at DEF CON 33.
+Currently, [Leadership](https://dc916.com/Leadership) and some core group members are putting together a fun event to bring with us to DEF CON 33. Check back monthly for updates!
 
 # BSides Sacramento Revival
-It seems BSidesSac has been abandoned based on their [webpage](https://bsidessac.org). As of now, [Leadership](https://dc916.com/Leadership) does not have the bandwidth to launch a local con. However, if there's someone in the group who's interested in taking on this effort [Leadership](https://dc916.com/Leadership)) will do what they can to help revive BSides Sacramento.
-
-Beginning the revival would seem to [start here](https://bsides.org/w/page/12194160/OrganizeALocalBSides).
+Members within DC916 are working with past BSidesSac leadership to reboot the con. Best of luck! <3
