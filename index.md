@@ -32,7 +32,7 @@ Physically at The Sacramento Hacker Lab/Made Studio - 3519 BROADWAY SACRAMENTO C
 or\
 Virtually on Discord\
 \
-Next meeting date/time: March 12th from 7PM - 8:30PM.
+Next meeting date/time: April 9th from 7PM - 8:30PM.
 
 ---
 
@@ -47,6 +47,7 @@ Next meeting date/time: March 12th from 7PM - 8:30PM.
 ---
 
 # Areas of Interest:
+* Educational Outreach
 * Lock-picking
 * Red-teaming
 * ICS
