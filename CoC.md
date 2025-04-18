@@ -64,6 +64,10 @@ Building a great community requires cooperation, so please work with our [Leader
 
 For where these rules may fall short, please follow [DEF CON's official Code of Conduct](https://defcon.org/html/links/dc-code-of-conduct.html).
 
+
+# 12) No global thermonuclear war or Skynet is permitted
+
+https://tenor.com/view/terminator-terminator-robot-looking-flex-cool-robot-gif-978532213316794273
 # 12) Hack the planet! 
 # <-- END CODE OF CONDUCT -->
 ----
